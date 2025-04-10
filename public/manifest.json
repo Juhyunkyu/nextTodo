@@ -1,21 +1,16 @@
 {
-  "short_name": "JU_Todos",
-  "name": "JU_Todos - Simple Todo Application",
+  "short_name": "Todo List",
+  "name": "Todo List Application",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "todolist.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "todolist192.png",
       "type": "image/png",
       "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
     }
   ],
   "start_url": ".",
